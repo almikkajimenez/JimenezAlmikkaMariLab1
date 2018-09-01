@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JimenezAlmikkaMariLab1</string>
+    <string name="the_bayleaf_cavite">The Bayleaf Cavite</string>
+    <string name="location">Location:</string>
+    <string name="governor_s_drive_brgy_manggahan_general_trias_cavite">Governor\'s Drive, Brgy. Manggahan, General Trias, Cavite</string>
+    <string name="_42_1_km">42.1 km</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="a">a</string>
+</resources>
